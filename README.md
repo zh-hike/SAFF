@@ -1,6 +1,13 @@
 # Self-Attention-Based Deep Feature Fusion for Remote Sensing Scene Classification
 使用vgg16和SAFF做小样本分类
 
+## 介绍
+* 使用经过预训练后的vgg16提取数据集特征
+![model](imgs/model.png)
+
+* SAFF把特征转换成 1D 张量
+![saff](imgs/saff.png)
+
 ## 准备
 ```bash
 conda create -n zh python=3.9
