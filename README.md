@@ -6,6 +6,7 @@
 ![model](imgs/model.png)
 
 * SAFF把特征转换成 1D 张量
+
 ![saff](imgs/saff.png)
 
 ## 准备
