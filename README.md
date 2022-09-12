@@ -3,11 +3,11 @@ Use vgg16 and SAFF for small sample classification
 
 ## Introduction
 * Extract dataset features using pretrained vgg16
-![model](imgs/model.png)
+<p align="center"><img src="imgs/model.png" width=""500"/></p>
 
 * SAFF converts features into 1D tensor
 
-![saff](imgs/saff.png)
+<p align="center"><img src="imgs/saff.png" width=""500"/></p>
 
 ## Environmental preparation
 ```bash
