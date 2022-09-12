@@ -1,5 +1,5 @@
 # Self-Attention-Based Deep Feature Fusion for Remote Sensing Scene Classification
-Use vgg16 and SAFF for small sample classification from the [paper](https://ieeexplore.ieee.org/document/8982033).
+Use vgg16 and SAFF for small sample classification from the [paper](https://ieeexplore.ieee.org/document/8982033)(Unofficial code).
 
 ## Introduction
 * Extract dataset features using pretrained vgg16
